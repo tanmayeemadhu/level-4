@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "jest": "^29.0.2"
+  },
+  "scripts": {
+    "test": "jest --json --outputFile=results.json"
+  }
+}
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
